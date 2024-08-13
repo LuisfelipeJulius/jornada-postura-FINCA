@@ -41,7 +41,7 @@
     };
     
     // Envía los datos al webhook
-    fetch('https://hook.us1.make.com/6kv21ebs2jrxdfeeatzbedwixge5dk2p', {
+    fetch('https://hook.us1.make.com/wvq6f88i5nvl42xgq2p9swnh9tr972aq', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
